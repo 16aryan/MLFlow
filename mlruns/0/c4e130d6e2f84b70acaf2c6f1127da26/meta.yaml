@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/c4e130d6e2f84b70acaf2c6f1127da26/artifacts
+end_time: 1748257687090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e130d6e2f84b70acaf2c6f1127da26
+run_name: rebellious-mule-624
+run_uuid: c4e130d6e2f84b70acaf2c6f1127da26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748257685554
+status: 3
+tags: []
+user_id: aryan

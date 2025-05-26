@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/12ffb4f0709f437784bd8d63a270d702/artifacts
+end_time: 1748257649502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ffb4f0709f437784bd8d63a270d702
+run_name: auspicious-shark-261
+run_uuid: 12ffb4f0709f437784bd8d63a270d702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748257647894
+status: 3
+tags: []
+user_id: aryan
