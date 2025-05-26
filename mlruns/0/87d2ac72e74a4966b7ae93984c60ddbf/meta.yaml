@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/87d2ac72e74a4966b7ae93984c60ddbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87d2ac72e74a4966b7ae93984c60ddbf
+run_name: carefree-pig-210
+run_uuid: 87d2ac72e74a4966b7ae93984c60ddbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748272813955
+status: 1
+tags: []
+user_id: aryan

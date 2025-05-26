@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/1e47c951822f47a595b32c1ae96e6c77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e47c951822f47a595b32c1ae96e6c77
+run_name: loud-colt-529
+run_uuid: 1e47c951822f47a595b32c1ae96e6c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748272535366
+status: 1
+tags: []
+user_id: aryan

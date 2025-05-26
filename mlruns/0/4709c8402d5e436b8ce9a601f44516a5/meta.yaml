@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/4709c8402d5e436b8ce9a601f44516a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4709c8402d5e436b8ce9a601f44516a5
+run_name: gregarious-roo-26
+run_uuid: 4709c8402d5e436b8ce9a601f44516a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748272795112
+status: 1
+tags: []
+user_id: aryan

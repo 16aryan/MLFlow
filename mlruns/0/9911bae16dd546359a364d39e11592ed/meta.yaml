@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryan/ML_Project/mlruns/0/9911bae16dd546359a364d39e11592ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9911bae16dd546359a364d39e11592ed
+run_name: abrasive-donkey-377
+run_uuid: 9911bae16dd546359a364d39e11592ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748273012743
+status: 1
+tags: []
+user_id: aryan

@@ -5,7 +5,13 @@
 import os
 import warnings
 import sys
+import dagshub
+dagshub.init(repo_owner='16aryan', repo_name='MLFlow', mlflow=True)
 
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
 import pandas as pd
 import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
